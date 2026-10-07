@@ -1,4 +1,4 @@
-# Povils Brandt — AI Automation Portfolio
+# Povilas Brand — AI Automation Portfolio
 
 Public portfolio for practical workflow automation and API-integration work.
 
